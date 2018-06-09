@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% load staticfiles %}
+<div class="container">
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="https://www.bilibili.com/">
+                <img src="{% static 'imges/colorful_dog.gif' %}" alt="花狗">
+            </a>
+        </div>
+        <div>
+            <ul class="nav navbar-nav" role="navigation">
+                <li><a href="{% url 'blog_title' %}">BLOG</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">LOGIN</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+</body>
+</html>
