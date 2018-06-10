@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="54a98ed1-dca2-45e4-aede-0c7b5c35f026" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/imges/colorful_dog.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/imges/test1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,7 +66,7 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyWebSite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="437">
               <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding>
                 <element signature="e#643#675#0" expanded="true" />
@@ -77,9 +79,14 @@
         <entry file="file://$PROJECT_DIR$/templates/header.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/statics/imges/test.jpeg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
@@ -162,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,11 +181,6 @@
               <item name="MyWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyWebSite" type="462c0819:PsiDirectoryNode" />
               <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="MyWebSite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyWebSite" type="b2602c69:ProjectViewProjectNode" />
@@ -199,7 +202,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,6 +233,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Django server.MyWebSite">
+    <configuration name="header.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyWebSite/templates/header.html" />
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyWebSite" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,9 +321,11 @@
       <item itemvalue="Django server.MyWebSite" />
       <item itemvalue="Python.views" />
       <item itemvalue="Python.manage" />
+      <item itemvalue="JavaScript Debug.header.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.header.html" />
         <item itemvalue="Python.views" />
         <item itemvalue="Python.manage" />
       </list>
@@ -349,7 +354,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="18" width="1252" height="948" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32916668" />
@@ -357,9 +362,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32916668" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4974705" visible="true" weight="0.4025157" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974705" visible="true" weight="0.40199336" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32916668" />
-      <window_info content_ui="combo" x="769" y="152" width="308" height="779" id="Project" order="0" visible="true" weight="0.23524451" />
+      <window_info active="true" content_ui="combo" x="769" y="152" width="308" height="779" id="Project" order="0" visible="true" weight="0.15080214" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3296796" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3296796" />
@@ -602,9 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,12 +638,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/statics/imges/test.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyWebSite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="437">
           <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="e#643#675#0" expanded="true" />
@@ -652,10 +651,13 @@
     <entry file="file://$PROJECT_DIR$/statics/imges/test1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/statics/imges/test.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
         </state>
       </provider>
     </entry>
